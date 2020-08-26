@@ -1,0 +1,6 @@
+E:\Repos\GuiaDeEjercicios\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+E:\Repos\GuiaDeEjercicios\Ejercicio3\bin\Debug\Ejercicio3.exe
+E:\Repos\GuiaDeEjercicios\Ejercicio3\bin\Debug\Ejercicio3.pdb
+E:\Repos\GuiaDeEjercicios\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+E:\Repos\GuiaDeEjercicios\Ejercicio3\obj\Debug\Ejercicio3.exe
+E:\Repos\GuiaDeEjercicios\Ejercicio3\obj\Debug\Ejercicio3.pdb

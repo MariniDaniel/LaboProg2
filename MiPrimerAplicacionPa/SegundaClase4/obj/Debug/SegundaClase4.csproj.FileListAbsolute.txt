@@ -1,0 +1,6 @@
+E:\Repos\MiPrimerAplicacionPa\SegundaClase4\bin\Debug\SegundaClase4.exe.config
+E:\Repos\MiPrimerAplicacionPa\SegundaClase4\bin\Debug\SegundaClase4.exe
+E:\Repos\MiPrimerAplicacionPa\SegundaClase4\bin\Debug\SegundaClase4.pdb
+E:\Repos\MiPrimerAplicacionPa\SegundaClase4\obj\Debug\SegundaClase4.csproj.CoreCompileInputs.cache
+E:\Repos\MiPrimerAplicacionPa\SegundaClase4\obj\Debug\SegundaClase4.exe
+E:\Repos\MiPrimerAplicacionPa\SegundaClase4\obj\Debug\SegundaClase4.pdb

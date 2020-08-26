@@ -1,0 +1,6 @@
+E:\Repos\GuiaDeEjercicios\Ejercicio 4\obj\Debug\Ejercicio 4.csproj.CoreCompileInputs.cache
+E:\Repos\GuiaDeEjercicios\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+E:\Repos\GuiaDeEjercicios\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+E:\Repos\GuiaDeEjercicios\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+E:\Repos\GuiaDeEjercicios\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+E:\Repos\GuiaDeEjercicios\Ejercicio 4\obj\Debug\Ejercicio 4.pdb

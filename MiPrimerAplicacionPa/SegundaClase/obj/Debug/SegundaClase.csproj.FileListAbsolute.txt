@@ -1,0 +1,7 @@
+E:\Repos\MiPrimerAplicacionPa\SegundaClase\bin\Debug\SegundaClase.exe.config
+E:\Repos\MiPrimerAplicacionPa\SegundaClase\bin\Debug\SegundaClase.exe
+E:\Repos\MiPrimerAplicacionPa\SegundaClase\bin\Debug\SegundaClase.pdb
+E:\Repos\MiPrimerAplicacionPa\SegundaClase\obj\Debug\SegundaClase.csprojAssemblyReference.cache
+E:\Repos\MiPrimerAplicacionPa\SegundaClase\obj\Debug\SegundaClase.csproj.CoreCompileInputs.cache
+E:\Repos\MiPrimerAplicacionPa\SegundaClase\obj\Debug\SegundaClase.exe
+E:\Repos\MiPrimerAplicacionPa\SegundaClase\obj\Debug\SegundaClase.pdb
